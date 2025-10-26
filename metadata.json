@@ -1,0 +1,5 @@
+{
+  "name": "Contexto para Vídeo",
+  "description": "Um aplicativo que transforma seu conteúdo bruto em um vídeo narrado com vozes de IA personalizadas.",
+  "requestFramePermissions": []
+}
